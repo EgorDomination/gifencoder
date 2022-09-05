@@ -9,7 +9,7 @@ Streaming server-side animated (and non-animated) gif generation for node.js
 This module is installed via npm:
 
 ``` bash
-$ npm install gifencoder
+$ npm install git://github.com/EgorDomination/gifencoder.git
 ```
 
 ## Streaming API - Duplex Piping with Writes
